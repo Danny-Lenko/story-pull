@@ -1,6 +1,6 @@
 # CMS Infrastructure
 
-This repository contains the infrastructure as code (IaC) and deployment configurations for our Content Management System (CMS) project.
+This repository contains the infrastructure as code (IaC) and deployment configurations for the StoryPull (CMS) project.
 
 ## Repository Contents
 
